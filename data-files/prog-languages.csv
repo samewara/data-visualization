@@ -1,24 +1,24 @@
 Language,Count,percentage
-Assembly,120,11.9
-C,256,25.4
-C++,355,35.22
-C#,669,66.37
-Dart,14,1.39
-"Delphi, Modula or Pascal",86,8.53
-Go,27,2.68
-Java,167,16.57
-JavaScript,427,42.36
-Kotlin,35,3.47
-Lua,33,3.27
-"Powershell, bash, and any shell script",249,24.7
-PHP,125,12.4
-Python,238,23.61
-R,30,2.98
-Ruby,13,1.29
-Scala,6,0.6
-Swift or Objective-C,35,3.47
-SQL (and variants),529,52.48
-TypeScript,153,15.18
-Visual Basic / VB.NET,280,27.78
-Bonus: FORTRAN or COBOL,55,5.46
-Other,146,14.48
+Assembly,139,11.08
+C,311,24.78
+C++,431,34.34
+C#,815,64.94
+Dart,20,1.59
+"Delphi, Modula or Pascal",98,7.81
+Go,34,2.71
+Java,217,17.29
+JavaScript,519,41.35
+Kotlin,45,3.59
+Lua,38,3.03
+"Powershell, bash, and any shell script",291,23.19
+PHP,160,12.75
+Python,278,22.15
+R,38,3.03
+Ruby,19,1.51
+Scala,14,1.12
+Swift or Objective-C,43,3.43
+SQL (and variants),621,49.48
+TypeScript,182,14.5
+Visual Basic / VB.NET,349,27.81
+Bonus: FORTRAN or COBOL,70,5.58
+Other,173,13.78
